@@ -1,0 +1,23 @@
+.container{
+    margin-top: 20px;
+}
+.col-6{
+    padding: 20px;
+    align-items: baseline;
+    flex-direction: column;
+}
+.row{
+    border-bottom: 1px solid lightgray;
+}
+.titre-produit{
+    color: gray;
+    border-left: 10px solid black;
+    padding-left: 20px;
+}
+.description-produit{
+    padding: 12px 20px 12px 20px;
+}
+.img-fluid{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}

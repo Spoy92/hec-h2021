@@ -3,8 +3,12 @@
 .container {
     width: 80%;
     padding-left: 10%;
+    border: 2px solide #ffeeba;
 }
-
-
+.alert-warning{
+    color: #856404;
+    background-color: #fff3cd;
+    padding: 14px;
+}
 /* CSS à écrire */
 
